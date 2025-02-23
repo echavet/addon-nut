@@ -4,3 +4,4 @@
 # Script to shutdown the host from UPS Shutdown Command
 # ==============================================================================
 bashio::host.shutdown
+# bashio::log.magenta("l'addon nut veut redémarrer le système.") 
